@@ -13,9 +13,10 @@ body {
 .tela {
   width: 500px;
   heigth: 320px;
-  background: linear-gradient(to right, #E8E8E8, #C1C1C1)
+  background: linear-gradient(to right, #E8E8E8, #C1C1C1);
 }
 
 .teclado{
   background-color: #403A3A;
+  margin-left:30px;
 }
