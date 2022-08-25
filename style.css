@@ -20,3 +20,11 @@ body {
   background-color: #403A3A;
   margin-left:30px;
 }
+
+.teclado--botao {
+  width: 50px;
+  height: 30px;
+  background-color: #000;
+  color: #FFF;
+  font-size:25px;
+}
