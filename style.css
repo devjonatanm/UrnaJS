@@ -10,9 +10,10 @@ body {
   padding: 30px;
   display: flex;
 }
+
 .tela {
   width: 500px;
-  heigth: 320px;
+  height: 320px;
   background: linear-gradient(to right, #E8E8E8, #C1C1C1);
 }
 
